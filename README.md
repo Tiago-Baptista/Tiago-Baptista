@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I’m currently learning Python and Ruby on Rails
+Teste para o meu primeiro repositorio.
 
 <!--
 **Tiago-Baptista/Tiago-Baptista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
